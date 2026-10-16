@@ -1,64 +1,63 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Vishwajeet Jaiswal: full stack developer. A developer workspace connecting interface, services, data and intelligence." />
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="assets/matrix-entry-static.png" />
+<img src="assets/matrix-entry-v3.gif" width="100%" alt="Wake up, Vishwajeet. Matrix-inspired developer terminal with an animated typing introduction, identity panel, and digital rain." />
+</picture>
 
 <br />
 
-**[VIEW PORTFOLIO](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)** &nbsp; / &nbsp; **[GET IN TOUCH](mailto:jaiswalsandy68@gmail.com)** &nbsp; / &nbsp; **[EXPLORE REPOSITORIES](https://github.com/prince53454?tab=repositories)**
+**[ENTER PORTFOLIO](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)** &nbsp; / &nbsp; **[OPEN A CHANNEL](mailto:jaiswalsandy68@gmail.com)** &nbsp; / &nbsp; **[BROWSE PROGRAMS](https://github.com/prince53454?tab=repositories)**
 
 <sub>FULL STACK DEVELOPMENT &nbsp; / &nbsp; APPLIED AI &nbsp; / &nbsp; INTERACTIVE EXPERIENCES</sub>
 
 </div>
 
-<picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="assets/matrix.svg" />
-<img src="assets/matrix-rain-v2.gif" width="100%" alt="Matrix-inspired animated code rain: Follow the code. Build, inspect, iterate." />
-</picture>
 
-## 01 / The developer
+## 01 / Read the identity
 
 I'm **Vishwajeet**, a Computer Science graduate who enjoys building the whole system: the interface people use, the services behind it, and the data that makes it useful. Based in **Uttar Pradesh, India**.
 
 My projects connect **React and Node.js**, **Python and AI**, and **interactive 3D on the web**. Explore the code, try the demos, or open the project notes below for the engineering details.
 
-## 02 / Project gallery
+## 02 / Enter the programs
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/prince53454/Volta-Banking-Ledger"><img src="assets/volta.svg" width="100%" alt="Volta: double-entry banking, ACID transactions, and idempotent transfers" /></a>
-<p><a href="https://github.com/prince53454/Volta-Banking-Ledger"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://volta-banking-ledger.vercel.app">Live demo</a></p>
+<p><a href="https://github.com/prince53454/Volta-Banking-Ledger"><strong>Inspect code</strong></a> &nbsp; / &nbsp; <a href="https://volta-banking-ledger.vercel.app">Enter program</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/prince53454/adaptive-rag-agentic-chatbot"><img src="assets/rag.svg" width="100%" alt="Adaptive RAG: LangGraph routing, Qdrant retrieval, and agentic workflows" /></a>
-<p><a href="https://github.com/prince53454/adaptive-rag-agentic-chatbot"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="#04--engineering-notes">Architecture notes</a></p>
+<p><a href="https://github.com/prince53454/adaptive-rag-agentic-chatbot"><strong>Inspect code</strong></a> &nbsp; / &nbsp; <a href="#04--engineering-notes">Architecture notes</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/prince53454/Online-Doctor-s-consultation"><img src="assets/mediconnect.svg" width="100%" alt="MediConnect Pro: patient, doctor, and administrator portals" /></a>
-<p><a href="https://github.com/prince53454/Online-Doctor-s-consultation"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://mediconnect-pro-prince53454.vercel.app">Live demo</a></p>
+<p><a href="https://github.com/prince53454/Online-Doctor-s-consultation"><strong>Inspect code</strong></a> &nbsp; / &nbsp; <a href="https://mediconnect-pro-prince53454.vercel.app">Enter program</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/prince53454/Alzheimer-s-Detection"><img src="assets/alzheimer.svg" width="100%" alt="MRI Classifier: ResNet50 transfer learning and Grad-CAM explainability" /></a>
-<p><a href="https://github.com/prince53454/Alzheimer-s-Detection"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://alzheimer-s-detection-wi4c.onrender.com/">Live demo</a></p>
+<p><a href="https://github.com/prince53454/Alzheimer-s-Detection"><strong>Inspect code</strong></a> &nbsp; / &nbsp; <a href="https://alzheimer-s-detection-wi4c.onrender.com/">Enter program</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/prince53454/Opticverse-3D"><img src="assets/optics.svg" width="100%" alt="Opticverse 3D: reflection and refraction in an interactive Three.js sandbox" /></a>
-<p><a href="https://github.com/prince53454/Opticverse-3D"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://huggingface.co/spaces/Vishu54645/opticsverse-3d">Launch lab</a></p>
+<p><a href="https://github.com/prince53454/Opticverse-3D"><strong>Inspect code</strong></a> &nbsp; / &nbsp; <a href="https://huggingface.co/spaces/Vishu54645/opticsverse-3d">Launch lab</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/prince53454/Portfolio"><img src="assets/portfolio.svg" width="100%" alt="Personal Portfolio: responsive design, project showcases, and accessible navigation" /></a>
-<p><a href="https://github.com/prince53454/Portfolio"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html">Visit website</a></p>
+<p><a href="https://github.com/prince53454/Portfolio"><strong>Inspect code</strong></a> &nbsp; / &nbsp; <a href="https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html">Visit website</a></p>
 </td>
 </tr>
 </table>
 
 <sub>The MRI classifier is an educational project, not a medical diagnostic tool. Hosted demos may need time to wake after inactivity.</sub>
 
-## 03 / Behind the interface
+## 03 / Inspect the systems
 
 <img src="assets/architecture.svg" width="100%" alt="Architecture map: React to Express to ACID transactions to ledger; question to routing to retrieval to answer; MRI to preprocessing to ResNet50 to explainable classification." />
 
@@ -182,7 +181,7 @@ My personal home on the web: project showcases, a technical skills map, educatio
 
 </details>
 
-## 06 / Start a conversation
+## 06 / Open a channel
 
 A project idea, an engineering question, or a chance to work together? **[Send me an email](mailto:jaiswalsandy68@gmail.com).**
 
@@ -191,5 +190,5 @@ A project idea, an engineering question, or a chance to work together? **[Send m
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-<sub>DESIGNED BY VISHWAJEET JAISWAL / CUSTOM SVG + MARKDOWN / ALWAYS BUILDING</sub>
+<sub>EXIT THE SIMULATION. KEEP BUILDING. / VISHWAJEET JAISWAL</sub>
 </div>
