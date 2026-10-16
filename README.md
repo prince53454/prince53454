@@ -1,38 +1,77 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Vishwajeet Jaiswal · full stack developer building web apps, applied AI, and interactive experiences" />
+<img src="assets/banner.svg" width="100%" alt="Vishwajeet Jaiswal: full stack developer. A developer workspace connecting interface, services, data and intelligence." />
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-cbf477?style=for-the-badge&logo=googlechrome&logoColor=10110f)](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)
-[![Email](https://img.shields.io/badge/LET%27S_TALK-22251e?style=for-the-badge&logo=gmail&logoColor=cbf477)](mailto:jaiswalsandy68@gmail.com)
-[![Repositories](https://img.shields.io/badge/BROWSE_THE_CODE-22251e?style=for-the-badge&logo=github&logoColor=cbf477)](https://github.com/prince53454?tab=repositories)
+**[VIEW PORTFOLIO](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)** &nbsp; / &nbsp; **[GET IN TOUCH](mailto:jaiswalsandy68@gmail.com)** &nbsp; / &nbsp; **[EXPLORE REPOSITORIES](https://github.com/prince53454?tab=repositories)**
 
-**[About](#about-me) · [Selected work](#selected-work) · [Technical toolkit](#technical-toolkit) · [Background](#background) · [Connect](#lets-connect)**
+<sub>FULL STACK DEVELOPMENT &nbsp; / &nbsp; APPLIED AI &nbsp; / &nbsp; INTERACTIVE EXPERIENCES</sub>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+## 01 / The developer
 
-## About me
+I'm **Vishwajeet**, a Computer Science graduate who enjoys building the whole system: the interface people use, the services behind it, and the data that makes it useful. Based in **Uttar Pradesh, India**.
 
-I'm **Vishwajeet Jaiswal**, a Computer Science graduate from **Rajkiya Engineering College, Kannauj**, based in **Kushinagar, Uttar Pradesh, India**. I build full-stack web applications and explore how machine learning, retrieval systems, and browser-based simulations can turn complex ideas into usable experiences.
+My projects connect **React and Node.js**, **Python and AI**, and **interactive 3D on the web**. Explore the code, try the demos, or open the project notes below for the engineering details.
 
-My work spans a double-entry banking ledger, a telemedicine platform, an adaptive RAG chatbot, MRI classification, and an interactive 3D optics lab. I enjoy connecting the pieces: interface, API, data model, and deployment.
+## 02 / Project gallery
 
-| What I build | What you'll find in my repositories |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/prince53454/Volta-Banking-Ledger"><img src="assets/volta.svg" width="100%" alt="Volta: double-entry banking, ACID transactions, and idempotent transfers" /></a>
+<p><a href="https://github.com/prince53454/Volta-Banking-Ledger"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://volta-banking-ledger.vercel.app">Live demo</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/prince53454/adaptive-rag-agentic-chatbot"><img src="assets/rag.svg" width="100%" alt="Adaptive RAG: LangGraph routing, Qdrant retrieval, and agentic workflows" /></a>
+<p><a href="https://github.com/prince53454/adaptive-rag-agentic-chatbot"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="#04--engineering-notes">Architecture notes</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/prince53454/Online-Doctor-s-consultation"><img src="assets/mediconnect.svg" width="100%" alt="MediConnect Pro: patient, doctor, and administrator portals" /></a>
+<p><a href="https://github.com/prince53454/Online-Doctor-s-consultation"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://mediconnect-pro-prince53454.vercel.app">Live demo</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/prince53454/Alzheimer-s-Detection"><img src="assets/alzheimer.svg" width="100%" alt="MRI Classifier: ResNet50 transfer learning and Grad-CAM explainability" /></a>
+<p><a href="https://github.com/prince53454/Alzheimer-s-Detection"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://alzheimer-s-detection-wi4c.onrender.com/">Live demo</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/prince53454/Opticverse-3D"><img src="assets/optics.svg" width="100%" alt="Opticverse 3D: reflection and refraction in an interactive Three.js sandbox" /></a>
+<p><a href="https://github.com/prince53454/Opticverse-3D"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://huggingface.co/spaces/Vishu54645/opticsverse-3d">Launch lab</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/prince53454/Portfolio"><img src="assets/portfolio.svg" width="100%" alt="Personal Portfolio: responsive design, project showcases, and accessible navigation" /></a>
+<p><a href="https://github.com/prince53454/Portfolio"><strong>Source code</strong></a> &nbsp; / &nbsp; <a href="https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html">Visit website</a></p>
+</td>
+</tr>
+</table>
+
+<sub>The MRI classifier is an educational project, not a medical diagnostic tool. Hosted demos may need time to wake after inactivity.</sub>
+
+## 03 / Behind the interface
+
+<img src="assets/architecture.svg" width="100%" alt="Architecture map: React to Express to ACID transactions to ledger; question to routing to retrieval to answer; MRI to preprocessing to ResNet50 to explainable classification." />
+
+| Layer | My toolkit |
 | :--- | :--- |
-| **Full-stack products** | React interfaces, Node.js / Express APIs, authentication, and database-backed workflows |
-| **Applied AI** | Document retrieval, agentic query routing, transfer learning, and model explainability |
-| **Interactive learning** | Browser-based 3D scenes, optics simulations, and hands-on exploration |
+| **Interface** | React, Vite, HTML5, CSS3, JavaScript, Three.js |
+| **Services** | Node.js, Express, REST APIs, JWT, FastAPI |
+| **Data** | MongoDB, MySQL, Qdrant, aggregation pipelines, ACID transactions |
+| **Intelligence** | Python, LangGraph, RAG, ResNet50, Grad-CAM, Streamlit, Gradio |
+| **Delivery** | Git, GitHub, Docker, Vercel, Render, GitHub Pages, Hugging Face Spaces |
+| **Foundations** | Java, data structures and algorithms, SQL, model evaluation |
 
-<img src="assets/divider.svg" width="100%" alt="" />
+## 04 / Engineering notes
 
-## Selected work
+**Open a project to explore its features and technical choices.**
 
-### 01 / Volta Banking Ledger
-
-[![Volta · banking and financial ledger](assets/volta.svg)](https://github.com/prince53454/Volta-Banking-Ledger)
+<details>
+<summary><strong>Volta Banking Ledger</strong></summary>
 
 A digital banking learning project built around **double-entry accounting** and a React dashboard.
 
@@ -43,9 +82,10 @@ A digital banking learning project built around **double-entry accounting** and 
 **Stack:** React · Vite · Node.js · Express · MongoDB · JWT · Nodemailer<br />
 **[Source code →](https://github.com/prince53454/Volta-Banking-Ledger)** · **[Open demo →](https://volta-banking-ledger.vercel.app)**
 
-### 02 / Adaptive RAG · Agentic AI Chatbot
+</details>
 
-[![Adaptive RAG · agentic document intelligence](assets/rag.svg)](https://github.com/prince53454/adaptive-rag-agentic-chatbot)
+<details>
+<summary><strong>Adaptive RAG · Agentic AI Chatbot</strong></summary>
 
 An end-to-end retrieval-augmented generation system that chooses how to answer each query.
 
@@ -56,9 +96,10 @@ An end-to-end retrieval-augmented generation system that chooses how to answer e
 **Stack:** Python · LangGraph · Qdrant · FastAPI · Streamlit · MongoDB<br />
 **[Explore the architecture and code →](https://github.com/prince53454/adaptive-rag-agentic-chatbot)**
 
-### 03 / MediConnect Pro
+</details>
 
-[![MediConnect Pro · full-stack telemedicine](assets/mediconnect.svg)](https://github.com/prince53454/Online-Doctor-s-consultation)
+<details>
+<summary><strong>MediConnect Pro</strong></summary>
 
 A telemedicine learning platform with separate **patient, doctor, and administrator portals**.
 
@@ -69,9 +110,10 @@ A telemedicine learning platform with separate **patient, doctor, and administra
 **Stack:** React · Node.js · Express · MongoDB · JWT · Docker<br />
 **[Source code →](https://github.com/prince53454/Online-Doctor-s-consultation)** · **[Open demo →](https://mediconnect-pro-prince53454.vercel.app)**
 
-### 04 / Alzheimer's MRI Classification
+</details>
 
-[![MRI Classification · applied deep learning](assets/alzheimer.svg)](https://github.com/prince53454/Alzheimer-s-Detection)
+<details>
+<summary><strong>Alzheimer's MRI Classification</strong></summary>
 
 An educational deep learning project for classifying brain MRI images into four dementia stages.
 
@@ -84,9 +126,10 @@ An educational deep learning project for classifying brain MRI images into four 
 
 <sub>Educational demonstration; not a medical diagnostic tool. The hosted demo may need time to wake after inactivity.</sub>
 
-### 05 / Opticverse 3D
+</details>
 
-[![Opticverse 3D · interactive physics sandbox](assets/optics.svg)](https://github.com/prince53454/Opticverse-3D)
+<details>
+<summary><strong>Opticverse 3D</strong></summary>
 
 A browser-based optics lab for exploring **reflection, refraction, and ray tracing**.
 
@@ -97,9 +140,10 @@ A browser-based optics lab for exploring **reflection, refraction, and ray traci
 **Stack:** Three.js · JavaScript · HTML · CSS · Hugging Face Spaces<br />
 **[Source code →](https://github.com/prince53454/Opticverse-3D)** · **[Launch the lab →](https://huggingface.co/spaces/Vishu54645/opticsverse-3d)**
 
-### 06 / Personal Portfolio
+</details>
 
-[![Personal Portfolio · from schema to screen](assets/portfolio.svg)](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)
+<details>
+<summary><strong>Personal Portfolio</strong></summary>
 
 My personal home on the web: project showcases, a technical skills map, education, and contact details.
 
@@ -109,87 +153,38 @@ My personal home on the web: project showcases, a technical skills map, educatio
 <br />
 **[Source code →](https://github.com/prince53454/Portfolio)** · **[Visit portfolio →](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)**
 
-<details>
-<summary><strong>More repositories and learning</strong></summary>
+</details>
 
-- **[AutoGen](https://github.com/prince53454/AutoGen):** repository exploring Microsoft's AutoGen ecosystem. The framework and its upstream work belong to their original authors.
-- **[This profile](https://github.com/prince53454/prince53454):** the Markdown and SVG assets behind this page.
-- Browse the **[full repository list](https://github.com/prince53454?tab=repositories)** for source, setup instructions, and project updates.
+## 05 / Background
+
+| Period | Milestone |
+| :--- | :--- |
+| **2022 - 2026** | **B.Tech, Computer Science Engineering** / Rajkiya Engineering College, Kannauj / CGPA 7.2 |
+| **Jun - Jul 2022** | **Computer Science Internship** / RECK Computer Science Board / development support, debugging, documentation, and code reviews |
+| **2020** | **Senior Secondary, CBSE** / Zenith Convent School, Gorakhpur / 84% |
+| **2018** | **Secondary School, CBSE** / Netajee Defence Academy, Gorakhpur / 69% |
+
+<details>
+<summary><strong>Certifications, languages, and other repositories</strong></summary>
+
+**Coursework and certifications:** Java Programming, HTML, CSS, React.js, Git & GitHub.
+
+**Languages:** Hindi and English.
+
+**[AutoGen](https://github.com/prince53454/AutoGen):** exploring the AutoGen ecosystem; the framework and upstream work belong to their original authors.
+
+**[Profile source](https://github.com/prince53454/prince53454):** the Markdown, SVG illustrations, and setup notes behind this page.
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+## 06 / Start a conversation
 
-## Technical toolkit
+A project idea, an engineering question, or a chance to work together? **[Send me an email](mailto:jaiswalsandy68@gmail.com).**
+
+**[Portfolio](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)** &nbsp; / &nbsp; **[jaiswalsandy68@gmail.com](mailto:jaiswalsandy68@gmail.com)** &nbsp; / &nbsp; **[GitHub activity](https://github.com/prince53454?tab=overview)**
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-22251e?style=for-the-badge&logo=javascript&logoColor=cbf477)
-![Python](https://img.shields.io/badge/Python-22251e?style=for-the-badge&logo=python&logoColor=cbf477)
-![React](https://img.shields.io/badge/React-22251e?style=for-the-badge&logo=react&logoColor=cbf477)
-![Node.js](https://img.shields.io/badge/Node.js-22251e?style=for-the-badge&logo=nodedotjs&logoColor=cbf477)
-![MongoDB](https://img.shields.io/badge/MongoDB-22251e?style=for-the-badge&logo=mongodb&logoColor=cbf477)
-![MySQL](https://img.shields.io/badge/MySQL-22251e?style=for-the-badge&logo=mysql&logoColor=cbf477)
-
-</div>
-
-| Area | Technologies and experience |
-| :--- | :--- |
-| **Languages** | JavaScript, Python, Java (data structures and algorithms), SQL, HTML5, CSS3 |
-| **Frontend** | React, Vite, responsive layouts, form validation, Three.js |
-| **Backend** | Node.js, Express, REST APIs, JWT authentication, FastAPI |
-| **Data** | MongoDB, MySQL, Qdrant vector search, aggregation pipelines, database transactions |
-| **AI and ML** | LangGraph, RAG, embeddings, query routing, ResNet50, Grad-CAM, supervised learning |
-| **Interfaces for AI** | Streamlit, Gradio |
-| **Tools and deployment** | Git, GitHub, VS Code, Docker, Vercel, Render, GitHub Pages, Hugging Face Spaces |
-
-## Engineering interests
-
-- **Data integrity:** how transactions, ledger models, and idempotency protect application workflows.
-- **Useful AI systems:** how retrieval, routing, and relevance checks improve document-based answers.
-- **Explainable predictions:** how model evaluation and visual explanations help inspect classification behavior.
-- **Clear interfaces:** how responsive layouts and interactive visualizations make technical systems easier to use.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## Background
-
-| Period | Education or experience | Details |
-| :--- | :--- | :--- |
-| **2022–2026** | B.Tech, Computer Science Engineering | Rajkiya Engineering College, Kannauj · CGPA **7.2** |
-| **Jun–Jul 2022** | Computer Science Internship | RECK Computer Science Board · software development support, debugging, documentation, and code reviews |
-| **2020** | Senior Secondary, CBSE | Zenith Convent School, Gorakhpur · **84%** |
-| **2018** | Secondary School, CBSE | Netajee Defence Academy, Gorakhpur · **69%** |
-
-**Coursework and certifications:** Java Programming · HTML · CSS · React.js · Git & GitHub.<br />
-**Languages:** Hindi and English.
-
-## Explore my GitHub
-
-The repositories and contribution history are the best place to follow my work as it evolves.
-
-[![Followers](https://img.shields.io/github/followers/prince53454?style=flat-square&label=Followers&labelColor=22251e&color=cbf477)](https://github.com/prince53454?tab=followers)
-[![Profile repository updated](https://img.shields.io/github/last-commit/prince53454/prince53454?style=flat-square&label=Profile%20updated&labelColor=22251e&color=cbf477)](https://github.com/prince53454/prince53454/commits)
-
-**[All repositories →](https://github.com/prince53454?tab=repositories)** · **[Contribution activity →](https://github.com/prince53454?tab=overview)**
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## Let's connect
-
-Interested in a project, a technical discussion, or working together? Reach me through email.
-
-| Channel | Link |
-| :--- | :--- |
-| **Email** | [jaiswalsandy68@gmail.com](mailto:jaiswalsandy68@gmail.com) |
-| **Portfolio** | [Explore my work](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html) |
-| **GitHub** | [@prince53454](https://github.com/prince53454) |
-| **Location** | Kushinagar, Uttar Pradesh, India |
-
-<div align="center">
-
-**Thoughtful interfaces. Reliable data. Curious experiments.**
-
-<sub>Designed by Vishwajeet Jaiswal · Built with Markdown and custom SVGs.</sub>
-
+<sub>DESIGNED BY VISHWAJEET JAISWAL / CUSTOM SVG + MARKDOWN / ALWAYS BUILDING</sub>
 </div>
