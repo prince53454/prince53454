@@ -10,7 +10,10 @@
 
 </div>
 
-<img src="assets/matrix.svg" width="100%" alt="Matrix-inspired animated code rain: Follow the code. Build, inspect, iterate." />
+<picture>
+<source media="(prefers-reduced-motion: reduce)" srcset="assets/matrix.svg" />
+<img src="assets/matrix-rain-v2.gif" width="100%" alt="Matrix-inspired animated code rain: Follow the code. Build, inspect, iterate." />
+</picture>
 
 ## 01 / The developer
 
