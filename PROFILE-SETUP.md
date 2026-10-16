@@ -13,7 +13,7 @@ Open [Edit profile](https://github.com/settings/profile) and use:
 | Website | https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html |
 | Location | Kushinagar, Uttar Pradesh, India |
 
-The CLI account could publish repositories but did not have the `user` scope needed to update these fields. To enable CLI updates, run `gh auth refresh -h github.com -s user` and complete GitHub's authorization flow. Do not paste access tokens into chat or commit credentials.
+These sidebar fields have been applied and verified through the GitHub API after completing authorization. To change them later, use GitHub profile settings. Do not paste access tokens into chat or commit credentials.
 
 ## Recommended pinned repositories
 
