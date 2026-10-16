@@ -10,6 +10,8 @@
 
 </div>
 
+<img src="assets/matrix.svg" width="100%" alt="Matrix-inspired animated code rain: Follow the code. Build, inspect, iterate." />
+
 ## 01 / The developer
 
 I'm **Vishwajeet**, a Computer Science graduate who enjoys building the whole system: the interface people use, the services behind it, and the data that makes it useful. Based in **Uttar Pradesh, India**.
