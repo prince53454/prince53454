@@ -1,99 +1,195 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Vishwajeet Jaiswal - AI, full-stack and AR/VR developer"/>
+<img src="assets/banner.svg" width="100%" alt="Vishwajeet Jaiswal · full stack developer building web apps, applied AI, and interactive experiences" />
 
-<a href="https://github.com/prince53454">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&background=00000000&center=true&vCenter=true&width=760&lines=Follow+the+white+rabbit...;Deep+learning+for+medical+imaging.;Full-stack+apps+that+actually+ship.;AR%2FVR+simulations+of+real+physics.;Autobots%2C+roll+out!" alt="Typing SVG"/>
-</a>
+<br />
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-cbf477?style=for-the-badge&logo=googlechrome&logoColor=10110f)](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)
+[![Email](https://img.shields.io/badge/LET%27S_TALK-22251e?style=for-the-badge&logo=gmail&logoColor=cbf477)](mailto:jaiswalsandy68@gmail.com)
+[![Repositories](https://img.shields.io/badge/BROWSE_THE_CODE-22251e?style=for-the-badge&logo=github&logoColor=cbf477)](https://github.com/prince53454?tab=repositories)
 
-![Followers](https://img.shields.io/github/followers/prince53454?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=020806&color=00ff9c)
-![Repos](https://img.shields.io/badge/REPOS-9-ff2d2d?style=for-the-badge&labelColor=020806)
-![Views](https://komarev.com/ghpvc/?username=prince53454&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS&labelColor=020806)
+**[About](#about-me) · [Selected work](#selected-work) · [Technical toolkit](#technical-toolkit) · [Background](#background) · [Connect](#lets-connect)**
 
 </div>
 
-<img src="assets/divider.svg" width="100%"/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## `> whoami`
+## About me
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│  DESIGNATION : Vishwajeet Jaiswal  (prince53454)           │
-│  FACTION     : AUTOBOT                                     │
-│  FOCUS       : deep learning for medical imaging           │
-│                full-stack web apps | AR/VR simulations     │
-│  MODE        : ROBOT ⇄ VEHICLE ⇄ DEVELOPER                 │
-│  STATUS      : [■■■■■■■■■□] 90% ONLINE                     │
-└────────────────────────────────────────────────────────────┘
-```
+I'm **Vishwajeet Jaiswal**, a Computer Science graduate from **Rajkiya Engineering College, Kannauj**, based in **Kushinagar, Uttar Pradesh, India**. I build full-stack web applications and explore how machine learning, retrieval systems, and browser-based simulations can turn complex ideas into usable experiences.
 
-<img src="assets/divider.svg" width="100%"/>
+My work spans a double-entry banking ledger, a telemedicine platform, an adaptive RAG chatbot, MRI classification, and an interactive 3D optics lab. I enjoy connecting the pieces: interface, API, data model, and deployment.
 
-## `> ./featured_projects --list`
+| What I build | What you'll find in my repositories |
+| :--- | :--- |
+| **Full-stack products** | React interfaces, Node.js / Express APIs, authentication, and database-backed workflows |
+| **Applied AI** | Document retrieval, agentic query routing, transfer learning, and model explainability |
+| **Interactive learning** | Browser-based 3D scenes, optics simulations, and hands-on exploration |
 
-### 🧠 [Alzheimer's MRI Classification](https://github.com/prince53454/Alzheimer-s-Detection)
-ResNet50 transfer learning that classifies brain MRI scans into four dementia stages, with Grad-CAM heatmaps that show which regions drove each prediction. Includes a Gradio web app and a [live demo](https://alzheimer-s-detection-wi4c.onrender.com/).
+<img src="assets/divider.svg" width="100%" alt="" />
 
-![Python](https://img.shields.io/badge/Python-020806?style=flat-square&logo=python&logoColor=00ff9c) ![ResNet50](https://img.shields.io/badge/ResNet50-020806?style=flat-square&logoColor=00ff9c) ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-020806?style=flat-square&logoColor=ff2d2d) ![Gradio](https://img.shields.io/badge/Gradio-020806?style=flat-square&logoColor=ff2d2d)
+## Selected work
 
-### 🩺 [MediConnect Pro](https://github.com/prince53454/Online-Doctor-s-consultation)
-A telemedicine platform with separate patient, doctor and administrator portals. Uses JWT authentication, a MongoDB backend, Docker and test checks.
+### 01 / Volta Banking Ledger
 
-![JavaScript](https://img.shields.io/badge/JavaScript-020806?style=flat-square&logo=javascript&logoColor=00ff9c) ![Node.js](https://img.shields.io/badge/Node.js-020806?style=flat-square&logo=nodedotjs&logoColor=00ff9c) ![MongoDB](https://img.shields.io/badge/MongoDB-020806?style=flat-square&logo=mongodb&logoColor=00ff9c) ![Docker](https://img.shields.io/badge/Docker-020806?style=flat-square&logo=docker&logoColor=ff2d2d)
+[![Volta · banking and financial ledger](assets/volta.svg)](https://github.com/prince53454/Volta-Banking-Ledger)
 
-### 🔬 [Opticverse-3D](https://github.com/prince53454/Opticverse-3D)
-A practical AR/VR simulation that demonstrates reflection and refraction of light.
+A digital banking learning project built around **double-entry accounting** and a React dashboard.
 
-![HTML](https://img.shields.io/badge/HTML-020806?style=flat-square&logo=html5&logoColor=00ff9c) ![AR/VR](https://img.shields.io/badge/AR%2FVR-020806?style=flat-square&logoColor=ff2d2d)
+- **Ledger architecture:** balanced debit and credit entries, with balances derived from ledger records using MongoDB aggregation.
+- **Transaction integrity:** multi-document ACID transactions, rollback on failure, and idempotency keys for transfer retries.
+- **Application experience:** account creation, transfers, transaction history, JWT authentication, and email notifications.
 
-<img src="assets/divider.svg" width="100%"/>
+**Stack:** React · Vite · Node.js · Express · MongoDB · JWT · Nodemailer<br />
+**[Source code →](https://github.com/prince53454/Volta-Banking-Ledger)** · **[Open demo →](https://volta-banking-ledger.vercel.app)**
 
-## `> ./arsenal --list`
+### 02 / Adaptive RAG · Agentic AI Chatbot
+
+[![Adaptive RAG · agentic document intelligence](assets/rag.svg)](https://github.com/prince53454/adaptive-rag-agentic-chatbot)
+
+An end-to-end retrieval-augmented generation system that chooses how to answer each query.
+
+- **Adaptive routing:** directs questions to uploaded documents, general knowledge, or web search.
+- **Retrieval workflow:** document chunking, embeddings, Qdrant similarity search, relevance grading, and query rewriting.
+- **Application layers:** LangGraph orchestration, a FastAPI backend, Streamlit document uploads, and MongoDB conversation storage.
+
+**Stack:** Python · LangGraph · Qdrant · FastAPI · Streamlit · MongoDB<br />
+**[Explore the architecture and code →](https://github.com/prince53454/adaptive-rag-agentic-chatbot)**
+
+### 03 / MediConnect Pro
+
+[![MediConnect Pro · full-stack telemedicine](assets/mediconnect.svg)](https://github.com/prince53454/Online-Doctor-s-consultation)
+
+A telemedicine learning platform with separate **patient, doctor, and administrator portals**.
+
+- **Role-based workflows:** dedicated interfaces for patients, doctors, and administrators with authenticated API access.
+- **Pharmacy flow:** prescription uploads, stock reservations, order handling, and payment-provider integration.
+- **Development and deployment:** frontend builds, backend checks, Docker support, and a Vercel deployment.
+
+**Stack:** React · Node.js · Express · MongoDB · JWT · Docker<br />
+**[Source code →](https://github.com/prince53454/Online-Doctor-s-consultation)** · **[Open demo →](https://mediconnect-pro-prince53454.vercel.app)**
+
+### 04 / Alzheimer's MRI Classification
+
+[![MRI Classification · applied deep learning](assets/alzheimer.svg)](https://github.com/prince53454/Alzheimer-s-Detection)
+
+An educational deep learning project for classifying brain MRI images into four dementia stages.
+
+- **Model:** ResNet50 transfer learning with class-weighted training to address imbalanced categories.
+- **Explainability:** Grad-CAM heatmaps visualize the image regions associated with model predictions.
+- **Evaluation and interface:** classification reports, confusion matrices, and a Gradio upload-and-predict application.
+
+**Stack:** Python · ResNet50 · Grad-CAM · Gradio<br />
+**[Source code →](https://github.com/prince53454/Alzheimer-s-Detection)** · **[Open demo →](https://alzheimer-s-detection-wi4c.onrender.com/)**
+
+<sub>Educational demonstration; not a medical diagnostic tool. The hosted demo may need time to wake after inactivity.</sub>
+
+### 05 / Opticverse 3D
+
+[![Opticverse 3D · interactive physics sandbox](assets/optics.svg)](https://github.com/prince53454/Opticverse-3D)
+
+A browser-based optics lab for exploring **reflection, refraction, and ray tracing**.
+
+- **Sandbox:** place light sources, mirrors, and lenses to explore how rays behave.
+- **Visualization:** interactive Three.js scenes make optical concepts visible in 3D.
+- **Learning:** study content and quizzes complement the simulation tools.
+
+**Stack:** Three.js · JavaScript · HTML · CSS · Hugging Face Spaces<br />
+**[Source code →](https://github.com/prince53454/Opticverse-3D)** · **[Launch the lab →](https://huggingface.co/spaces/Vishu54645/opticsverse-3d)**
+
+### 06 / Personal Portfolio
+
+[![Personal Portfolio · from schema to screen](assets/portfolio.svg)](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)
+
+My personal home on the web: project showcases, a technical skills map, education, and contact details.
+
+- Responsive desktop and mobile layouts, a code-editor introduction, and keyboard-accessible navigation.
+- Charcoal and lime visual design, structured project cards, and direct links to repositories and demos.
+- Built with vanilla HTML, CSS, and JavaScript; hosted on GitHub Pages.
+<br />
+**[Source code →](https://github.com/prince53454/Portfolio)** · **[Visit portfolio →](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html)**
+
+<details>
+<summary><strong>More repositories and learning</strong></summary>
+
+- **[AutoGen](https://github.com/prince53454/AutoGen):** repository exploring Microsoft's AutoGen ecosystem. The framework and its upstream work belong to their original authors.
+- **[This profile](https://github.com/prince53454/prince53454):** the Markdown and SVG assets behind this page.
+- Browse the **[full repository list](https://github.com/prince53454?tab=repositories)** for source, setup instructions, and project updates.
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Technical toolkit
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-020806?style=for-the-badge&logo=python&logoColor=00ff9c)
-![JavaScript](https://img.shields.io/badge/JavaScript-020806?style=for-the-badge&logo=javascript&logoColor=00ff9c)
-![HTML](https://img.shields.io/badge/HTML-020806?style=for-the-badge&logo=html5&logoColor=00ff9c)
-![Node](https://img.shields.io/badge/Node.js-020806?style=for-the-badge&logo=nodedotjs&logoColor=00ff9c)
-![MongoDB](https://img.shields.io/badge/MongoDB-020806?style=for-the-badge&logo=mongodb&logoColor=ff2d2d)
-![Docker](https://img.shields.io/badge/Docker-020806?style=for-the-badge&logo=docker&logoColor=ff2d2d)
-![Render](https://img.shields.io/badge/Render-020806?style=for-the-badge&logo=render&logoColor=ff2d2d)
+![JavaScript](https://img.shields.io/badge/JavaScript-22251e?style=for-the-badge&logo=javascript&logoColor=cbf477)
+![Python](https://img.shields.io/badge/Python-22251e?style=for-the-badge&logo=python&logoColor=cbf477)
+![React](https://img.shields.io/badge/React-22251e?style=for-the-badge&logo=react&logoColor=cbf477)
+![Node.js](https://img.shields.io/badge/Node.js-22251e?style=for-the-badge&logo=nodedotjs&logoColor=cbf477)
+![MongoDB](https://img.shields.io/badge/MongoDB-22251e?style=for-the-badge&logo=mongodb&logoColor=cbf477)
+![MySQL](https://img.shields.io/badge/MySQL-22251e?style=for-the-badge&logo=mysql&logoColor=cbf477)
 
 </div>
 
-| Area | Tools |
-| --- | --- |
-| Languages | Python, JavaScript, HTML |
-| Machine learning | ResNet50 transfer learning, Grad-CAM, Gradio |
-| Web | Node.js, MongoDB, JWT, Docker |
-| Deployment | Render |
+| Area | Technologies and experience |
+| :--- | :--- |
+| **Languages** | JavaScript, Python, Java (data structures and algorithms), SQL, HTML5, CSS3 |
+| **Frontend** | React, Vite, responsive layouts, form validation, Three.js |
+| **Backend** | Node.js, Express, REST APIs, JWT authentication, FastAPI |
+| **Data** | MongoDB, MySQL, Qdrant vector search, aggregation pipelines, database transactions |
+| **AI and ML** | LangGraph, RAG, embeddings, query routing, ResNet50, Grad-CAM, supervised learning |
+| **Interfaces for AI** | Streamlit, Gradio |
+| **Tools and deployment** | Git, GitHub, VS Code, Docker, Vercel, Render, GitHub Pages, Hugging Face Spaces |
 
-<img src="assets/divider.svg" width="100%"/>
+## Engineering interests
 
-## `> ./stats --decrypt`
+- **Data integrity:** how transactions, ledger models, and idempotency protect application workflows.
+- **Useful AI systems:** how retrieval, routing, and relevance checks improve document-based answers.
+- **Explainable predictions:** how model evaluation and visual explanations help inspect classification behavior.
+- **Clear interfaces:** how responsive layouts and interactive visualizations make technical systems easier to use.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Background
+
+| Period | Education or experience | Details |
+| :--- | :--- | :--- |
+| **2022–2026** | B.Tech, Computer Science Engineering | Rajkiya Engineering College, Kannauj · CGPA **7.2** |
+| **Jun–Jul 2022** | Computer Science Internship | RECK Computer Science Board · software development support, debugging, documentation, and code reviews |
+| **2020** | Senior Secondary, CBSE | Zenith Convent School, Gorakhpur · **84%** |
+| **2018** | Secondary School, CBSE | Netajee Defence Academy, Gorakhpur · **69%** |
+
+**Coursework and certifications:** Java Programming · HTML · CSS · React.js · Git & GitHub.<br />
+**Languages:** Hindi and English.
+
+## Explore my GitHub
+
+The repositories and contribution history are the best place to follow my work as it evolves.
+
+[![Followers](https://img.shields.io/github/followers/prince53454?style=flat-square&label=Followers&labelColor=22251e&color=cbf477)](https://github.com/prince53454?tab=followers)
+[![Profile repository updated](https://img.shields.io/github/last-commit/prince53454/prince53454?style=flat-square&label=Profile%20updated&labelColor=22251e&color=cbf477)](https://github.com/prince53454/prince53454/commits)
+
+**[All repositories →](https://github.com/prince53454?tab=repositories)** · **[Contribution activity →](https://github.com/prince53454?tab=overview)**
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Let's connect
+
+Interested in a project, a technical discussion, or working together? Reach me through email.
+
+| Channel | Link |
+| :--- | :--- |
+| **Email** | [jaiswalsandy68@gmail.com](mailto:jaiswalsandy68@gmail.com) |
+| **Portfolio** | [Explore my work](https://prince53454.github.io/Portfolio/Vishwajeet_Jaiswal_Portfolio.html) |
+| **GitHub** | [@prince53454](https://github.com/prince53454) |
+| **Location** | Kushinagar, Uttar Pradesh, India |
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prince53454&show_icons=true&bg_color=020806&title_color=00ff9c&icon_color=ff2d2d&text_color=9dffd2&border_color=00ff9c"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince53454&layout=compact&bg_color=020806&title_color=00ff9c&text_color=9dffd2&border_color=00ff9c"/>
+**Thoughtful interfaces. Reliable data. Curious experiments.**
 
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prince53454&bg_color=020806&color=00ff9c&line=00ff9c&point=ff2d2d&area=true&area_color=00ff9c&hide_border=true" width="100%"/>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## `> ./connect --open-channel`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-prince53454-020806?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/prince53454)
-
-*"There is no spoon. There is only code."* · *"Till all are one."*
-
-<sub>The Alzheimer's project is an educational demo and is not a medical diagnostic tool.</sub>
+<sub>Designed by Vishwajeet Jaiswal · Built with Markdown and custom SVGs.</sub>
 
 </div>
